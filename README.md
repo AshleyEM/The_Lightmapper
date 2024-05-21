@@ -1,7 +1,7 @@
 ℹ Note: I'm slowly making a new and improved version of the Lightmapper. It's currently located in the "Lightmapper-One" branch, but keep in mind, it's very early and WIP - Naxela.
 <br>
 
-## The Lightmapper
+# The Lightmapper
 
 ![](img/a.png)
 
@@ -12,68 +12,78 @@ Baking is done through Cycles, and includes automatic material setup, automatic 
 
 ![](img/i.jpg)
 
-### Features - Version 0.3
-- Automated lightmap baking
+[Installation](#Installation)
+
+[Features](#Features)
+
+[Usage](#Usage)
+
+[Documentation](#Documentation)
+
+[Images and Videos](#Images)
+
+## Installation
+
+Installation of The Lightmapper is straight forward. All you need to do is download the latest release, and install as a .zip file from inside Blender. For more information, please refer to the [wiki section](https://github.com/Naxela/The_Lightmapper/wiki/0.-Installing-The-Lightmapper).
+
+## Features - Version 0.3
+### Automated lightmap baking
 
 The addon automates everything you need to bake, ranging from scaling, material setup, uv-layering, uv-unwrapping and more:
 
 ![](img/d.jpg)
 
-- Per-object settings
+### Per-object settings
 
 Each object can have it's own settings and be customized in terms of resolution, uv margin and unwrap mode:
 
 ![](img/j.jpg)
 
-- Multi-material support
+### Multi-material support
 
 Add as many materials to each object as you want:
 
 ![](img/b.png)
 
-- AI-based Denoising
+### AI-based Denoising
 
 Integrated denoising as well as support for faster CPU OIDN denoising and GPU Optix denoising:
 
 ![](img/c.jpg)
 
-- Performance and speed
+### Performance and speed
 
 Baking presets automatically adjusts sampling, quality and tile settings based on situation and CPU/GPU:
 
 ![](img/e.jpg)
 
-- Postprocess filtering
+### Postprocess filtering
 
 Additional filtering to give your lightmaps an extra edge and quality through OpenCV:
 
 ![](img/f.png)
 
-- Background-baking
+### Background-baking
 
 Is your baking going to take a long time? Try background baking, which let's you continue working on your scene:
 
 ![](img/g.png)
 
-- Easy material management
+### Easy material management
 
 Apart from automatic material setup, resetting materials is easy and baking without material setup too for external engines:
 
 ![](img/h.jpg)
 
-### Installation
-
-Installation of The Lightmapper is straight forward. All you need to do is download the latest release, and install as a .zip file from inside Blender. For more information, please refer to the wiki section: COMING SOON
-
-### Usage
+## Usage
 
 For more information, please refer to the wiki section: COMING SOON
 
-### Documentation
+## Documentation
 
 The wiki page is under construction, and documentation is in the process of being written.
 
-### Images and Videos
+## Images and Videos
 
 [![Watch the video](img/prev.jpg)](https://www.youtube.com/watch?v=RaWNQrSaymo)
 
