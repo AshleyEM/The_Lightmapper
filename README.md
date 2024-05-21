@@ -14,7 +14,7 @@ Baking is done through Cycles, and includes automatic material setup, automatic 
 
 [Installation](#Installation)
 
-[Features](#Features)
+[Features](#features---version-03)
 
 [Usage](#Usage)
 
